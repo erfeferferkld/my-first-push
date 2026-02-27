@@ -7,6 +7,10 @@ Answer: -ls
 show file in directory
 it can told position of the file
 
+mkdir
+it creates a new directory (folder).  
+It stands for make directory in Unix/Linux systems.
+
 After one and a half years in the ISNE program, what advice would you give to prospective ISNE students? (Minimum 50 words)
 Answer: This program gonna be lead us to the great future, but you still have to try. 16
         There are many hard way. If you try enough, you gonna get the great future. 15
